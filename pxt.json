@@ -1,0 +1,44 @@
+{
+    "name": "dead zone",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.6.24",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#182250",
+        "#7394bc",
+        "#335088",
+        "#952249",
+        "#0a0d21",
+        "#1f426a",
+        "#5c3c64",
+        "#1c8c64",
+        "#3c5474",
+        "#7381a9",
+        "#396b9d",
+        "#76b5c5",
+        "#21130d",
+        "#873e23",
+        "#abdbe3"
+    ]
+}
